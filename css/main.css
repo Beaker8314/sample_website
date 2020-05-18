@@ -1,10 +1,6 @@
-.nav-menu{
-  text-align: center;
+.nav-menu {
+  text-align: right;
 }
-.nav-spacing{
-  magin: 0 0 0 10px;
-}
-#main-nav{
-  text-decoration: none;
-  color: #0000ff;
+.nav-spacing {
+  margin: 0 0 0 10px;
 }
